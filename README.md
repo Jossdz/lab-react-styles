@@ -1,68 +1,64 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-## Available Scripts
+# React Styles
 
-In the project directory, you can run:
+## Introduction
 
-### `npm start`
+Pick a celebrity or other topic and use Antd or styled components to make a Website for it.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Requirements
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+- Fork this repo
+- Clone this repo
 
-### `npm test`
+##
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+install:
 
-### `npm run build`
+```bash
+  npm i antd
+````
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+or 
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+```bash
+  npm i styled-components
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Submission
 
-### `npm run eject`
+- Upon completion, run the following commands:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  ```
+  git add .
+  git commit -m "done"
+  git push origin master
+  ```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Create Pull Request so your TAs can check up your work.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Instructions
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Your project should have (at least) 3 components:
 
-## Learn More
+- Navbar
+- Main section with a description and a couple of buttons
+- Cards section
+- Footer
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![](https://i.postimg.cc/VLhJq1PZ/Captura-de-pantalla-2019-05-04-a-la-s-14-54-00.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Your site should also have some styled components or antd components:
 
-### Code Splitting
+- CSS styling
+- images
+- buttons
+- Cards
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### BONUS
 
-### Analyzing the Bundle Size
+Add some Extra components to your site
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Send your pull request before next class!
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Happy coding! ❤️
