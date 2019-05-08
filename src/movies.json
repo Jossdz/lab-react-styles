@@ -1,0 +1,56 @@
+{
+  "movies":[
+    {
+      "title": "The Kid Brother",
+      "year": 1927,
+      "summary": "The most important family in Hickoryville is (naturally enough) the Hickorys, with sheriff Jim and his tough manly sons Leo and Olin. The timid youngest son, Harold, doesn't have the muscles to match up to them, so he has to use his wits to win the respect of his strong father and also the love of beautiful Mary.",
+      "imageUrl": "https://yts.am/assets/images/movies/the_kid_brother_1927/medium-cover.jpg"
+    },
+    {
+      "title": "The Indian in the Cupboard",
+      "year": 1995,
+      "summary": "Omri (Hal Scardino), a young boy growing up in Brooklyn, receives an odd variety of presents for his birthday: a wooden cabinet from his older brother, a set of antique keys from his mother Jane (Linsday Crouse), and a tiny plastic model of an Indian from his best friend Patrick (Rishi Bhat). Putting them all together, Omri locks the Indian inside the cabinet, only to be awoken by a strange sound in the middle of the night. Omri opens the cabinet to discover that the tiny Indian has come to life; it seems that he's called Little Bear (Litefoot), and he claims to have learned English from settlers in 1761. Omri hides this remarkable discovery from his mother but shares it with Patrick; as an experiment, Patrick locks a toy cowboy into the cupboard, and soon Little Bear has a companion, Boone (David Keith), though predictably, the cowboy and the Indian don't get along well at first. Omri comes to the realizations that his living and breathing playthings are also people with lives of ...",
+      "imageUrl": "https://yts.am/assets/images/movies/the_indian_in_the_cupboard_1995/medium-cover.jpg"
+    },{
+      "title": "Gintama",
+      "year": 2017,
+      "summary": "In an era where aliens have invaded and conquered feudal Tokyo, a young samurai seeks work as he can.",
+      "imageUrl": "https://yts.am/assets/images/movies/gintama_2017/medium-cover.jpg"
+    },{
+      "title": "Operation Mekong",
+      "year": 2016,
+      "summary": "Two Chinese merchant ships were attacked in Mekong river and 13 crews were killed. Thai policemen found 9 hundred thousand crystal meth on the ships. This new shocked China. Gang Gao, the leader of Narcotics Corps in Yun Nan province was assigned to lead a special team to Golden Triangle to investigate. Cooperated with a informer, Fanxin Wu, Gao discovered that 13 crew member were brutally murdered and framed up. Gao and Wu decided to fight for justice out of China no matter what it takes.",
+      "imageUrl": "https://yts.am/assets/images/movies/operation_mekong_2016/medium-cover.jpg"
+    },{
+      "title": "My Name Is Nobody",
+      "year": 1973,
+      "summary": "Jack Beauregard, once the greatest gunslinger of the Old West, only wants to move to Europe and retire in peace, but a young gunfighter, known only as \"Nobody,\" idolizes him and wants to see him go out in a blaze of glory. He arranges for Jack to face the 150-man gang known as The Wild Bunch and earn his place in history.",
+      "imageUrl": "https://yts.am/assets/images/movies/my_name_is_nobody_1973/medium-cover.jpg"
+    },{
+      "title": "Out of Sight",
+      "year": 1998,
+      "summary": "A career bank robber busts out of jail (Clooney) with the help of his buddy (Rhames) and kidnaps a US Marshal (Lopez) in the process. When the two cons head for Detroit to pull off their final big scam, the Marshal is put on their case but she finds she is attracted to one of them and has second thoughts about bringing them in.",
+      "imageUrl": "https://yts.am/assets/images/movies/out_of_sight_1998/medium-cover.jpg"
+    },{
+      "title": "Miss Hokusai",
+      "year": 2015,
+      "summary": "Set in 1814, Miss Hokusai focuses on O-Ei, the daughter of famed artist Tetsuzo, better known by his pen name Hokusai, as she tries to navigate the various aspects of her life. O-Ei spends the bulk of her time assisting her divorced father who cares about his art and not much else.",
+      "imageUrl": "https://yts.am/assets/images/movies/miss_hokusai_2015/medium-cover.jpg"
+    },{
+      "title": "What Just Happened",
+      "year": 2008,
+      "summary": "A week in the life of Ben, a powerful Hollywood producer, as he juggles negotiations with a studio head so that his newest picture can open at Cannes in two weeks, with a high-strung director who must make edits to the film, with an actor and his agent because the star has arrived on the set of a new picture with a full beard, and with his most recent ex-wife, Kelly, whom he discovers may have a lover. He also notices that his 17-year old daughter, from another marriage, has probably been crying. What's up? Can Ben keep it all together, get the green light from the studio to go to Cannes, move his new picture past the beard crisis, and maybe return to Kelly's good graces?",
+      "imageUrl": "https://yts.am/assets/images/movies/what_just_happened_2008/medium-cover.jpg"
+    },{
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "summary": "The Joad clan, introduced to the world in John Steinbeck's iconic novel, is looking for a better life in California. After their drought-ridden farm is seized by the bank, the family -- led by just-paroled son Tom -- loads up a truck and heads West. On the road, beset by hardships, the Joads meet dozens of other families making the same trek and holding onto the same dream. Once in California, however, the Joads soon realize that the promised land isn't quite what they hoped.",
+      "imageUrl": "https://yts.am/assets/images/movies/the_grapes_of_wrath_1940/medium-cover.jpg"
+    },{
+      "title": "Premonition",
+      "year": 2007,
+      "summary": "Middle-class couple Linda and Jim Hanson exist in a rut with their two daughters in their comfortable suburban home. One Thursday morning, the local sheriff informs Linda that Jim died in a car accident the day before. When she awakens the next morning, she finds Jim safe and sound at home; the morning after that she awakens to find him dead. She realizes that her days are out of order; her family and friends believe that she's insane.",
+      "imageUrl": "https://yts.am/assets/images/movies/premonition_2007/medium-cover.jpg"
+    }
+  ]
+}
