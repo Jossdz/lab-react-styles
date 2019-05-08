@@ -1,26 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
 import './App.css';
+import LayoutComp from './Layout';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+
+  render(){
+   return(
+    <LayoutComp
+      image="https://img.yts.am/assets/images/movies/the_lego_movie_2_the_second_part_2019/medium-cover.jpg"
+      title="Lego"
+      desc="Película patito de Lego"
+    >
+    </LayoutComp>
+   
+  )
+  }
 }
 
 export default App;
