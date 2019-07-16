@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import { Layout} from 'antd';
 import ButtonC from './Button';
 import CardC from './Card';
-import FooterC from './Footer';
 import MainCard from './MainCard';
 const {Content} = Layout;
 
@@ -17,15 +16,13 @@ class Main extends Component {
            <div className="BtnCrd" >
             <ButtonC/>
             <CardC/>
-
            </div>
           </div>
         </Content>
-        <FooterC/>
+        
       </Layout>
     )
-  }
-   
+  }  
 }
 
 export default Main
