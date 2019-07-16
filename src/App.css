@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+.BtnCrd{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.Btn{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2%;
+}
