@@ -1,26 +1,57 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import React, { Component } from 'react'
+import Nav from './components/Nav'
+import Buttons from './components/Buttons'
+import Cards from './components/Cards'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+export default class App extends Component {
+  state = {
+    current: 'mail',
+    size: 'large'
+  }
+
+  handleClick = e => {
+    console.log('click ', e)
+    this.setState({
+      current: e.key
+    })
+  }
+
+  render() {
+    return (
+      <div className="App">
+        <header
+          className="App-header"
+          style={{
+            position: 'fixed',
+            width: '100vw',
+            height: '10vh',
+            display: 'flex',
+            alignItems: 'flex-start',
+            justifyContent: 'center'
+          }}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+          <div className="navbar">
+            <a href="">Welcome to CDMX</a>
+            <Nav />
+          </div>
+        </header>
 
-export default App;
+        <main>
+          <div className="butt">
+            <h1>Welcome to CDMX</h1>
+            <Buttons />
+            <Cards />
+            <Cards />
+            <Cards />
+            <Cards />
+          </div>
+        </main>
+
+        <div className="footer">
+          <p>©Emiliano and Otto, Ironhack CDMX</p>
+        </div>
+      </div>
+    )
+  }
+}
